@@ -5,7 +5,7 @@ def hello_t(names)
   
   while i < names.length 
     yield name[i]
-
+    i += 1 
 end
 
 
