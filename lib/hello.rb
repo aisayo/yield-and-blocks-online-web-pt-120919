@@ -15,8 +15,7 @@ def hello_t(names)
 end
 
 
-#names is an Array
-# 
+
 
 
 
